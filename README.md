@@ -33,13 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveen299k&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Connect with Me  
 - 📧 Email: [praveen.299k@gmail.com](mailto:praveen.299k@gmail.com)  
 - 💼 LinkedIn: [praveen-kanwar-434226263](https://linkedin.com/in/praveen-kanwar-434226263)  
